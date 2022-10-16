@@ -1,0 +1,17 @@
+.back{
+    background-size: 100%;
+    background: linear-gradient(0deg,rgba(0,0,0,1) 0,transparent 100%,rgba(0,0,0,1));
+    
+}
+.la-star{
+    color: yellow;
+}
+.dark{
+    color: darkslategrey;
+}
+.pointer{
+    cursor: pointer;
+}
+.smoke{
+    color: whitesmoke;
+}
